@@ -28,27 +28,27 @@ url = "https://github.com/orgs/Stirling-uscc/people"
   identifier = "instagram"
   name = "Instagram (stirlingcomputerclub)"
   weight = -70
-  url = "https://www.instagram.com/computerclubstirling"
+  url = "/instagram"
   [[menu.social]]
   identifier = "github"
   name = "Github (stirling-uscc)"
   weight = -50
-  url = "https://github.com/stirling-uscc"
+  url = "/github"
   [[menu.social]]
   identifier = "youtube"
   name = "YouTube (University of Stirling Computer Club)"
   weight = -45
-  url = "https://www.youtube.com/channel/UC25J5Kd3A4wMmZ9UHxtf-FA"
+  url = "/youtube"
   [[menu.social]]
   identifier = "whatsapp"
   name = "WhatsApp group"
   weight = -30
-  url = "https://chat.whatsapp.com/CeAfqpJUujo6IZIoJ8iMbG"
+  url = "/whatsapp"
   [[menu.social]]
   identifier = "discord"
   name = "Discord (USCC server)"
   weight = -20
-  url = "https://discord.gg/DZnAvAnhKD"
+  url = "/discord"
 
 [markup.goldmark.renderer]
 unsafe = true
