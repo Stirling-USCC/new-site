@@ -1,7 +1,7 @@
 title = "University of Stirling Computer Club"
+copyright = "Copyright © University of Stirling Computer Club"
 baseURL = "https://stirlingcomputer.club"
 languageCode = "en-gb"
-theme = ["github.com/lower-elements/elemental", "github.com/dzello/reveal-hugo"]
 
 [params]
 shortTitle = "USCC"
